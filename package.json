@@ -1,0 +1,13 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+      "step-0": "node src/step-0",
+      "step-1": "node src/step-1",
+      "step-2": "node src/step-2",
+      "step-3": "node src/step-3",
+      "step-4": "node src/step-4"
+  }
+}
